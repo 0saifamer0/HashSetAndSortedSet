@@ -10,7 +10,7 @@
             {
                 new Person { Name = "Saif", Age = 30 },
                 new Person { Name = "Fatma", Age = 25 },
-                new Person { Name = "Nair", Age = 18 },
+                new Person { Name = "Naira", Age = 18 },
                 new Person { Name = "Saif", Age = 30 } // Duplicate, ignored
             };
 
